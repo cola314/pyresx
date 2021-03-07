@@ -22,7 +22,7 @@ resx.add_resource("String 3", "Third String")
 # Writes the resources to the file and closes it.
 resx.close();
 ```
-### Sample result
+### Sample Result
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <root>

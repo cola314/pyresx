@@ -1,7 +1,7 @@
 class ResXWriter:
     def __init__(self, filename):
         self.fileName = filename
-        self.file = open(filename, 'w')
+        self.file = open(filename, 'w', encoding='utf-8')
         self.data = {}
 
     def add_resource(self, name, value):
