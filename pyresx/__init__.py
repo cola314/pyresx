@@ -1,1 +1,1 @@
-from pyresx.pyresx import ResXWriter
+from pyresx.ResXWriter import ResXWriter
