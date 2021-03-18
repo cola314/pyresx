@@ -1,10 +1,16 @@
+[![Downloads](https://pepy.tech/badge/pyresx)](https://pepy.tech/project/pyresx)
+[![Downloads](https://pepy.tech/badge/pyresx/month)](https://pepy.tech/project/pyresx)
+[![Downloads](https://pepy.tech/badge/pyresx/week)](https://pepy.tech/project/pyresx)   
+
 # pyresx
+
 pyresx is .resx file writer for python.   
 It **only** supports string resources.
 
 ### Installation
+**Please download the lastest version 1.0.0**   
 ```bash
-$ pip install pyresx
+$ pip install "pyresx=1.0.0"
 ```
 
 ### Sample Code
