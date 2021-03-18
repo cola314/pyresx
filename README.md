@@ -10,7 +10,7 @@ It **only** supports string resources.
 ### Installation
 **Please download the lastest version 1.0.0**   
 ```bash
-$ pip install "pyresx=1.0.0"
+$ pip install "pyresx==1.0.0"
 ```
 
 ### Sample Code

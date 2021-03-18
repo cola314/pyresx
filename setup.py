@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pyresx",
-    version="0.1.1",
+    version="1.0.0",
     author="cola314",
     author_email='ubj020314@gmail.com',
     description='.resx file writer for python',
